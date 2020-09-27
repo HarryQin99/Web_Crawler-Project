@@ -7,5 +7,5 @@ My project1 for Element of Data Processing in 2020s1
 + Web crawling skill, start carwling from a seed URL
 + Scraping and extracting data needed in each pages(By using regular expression)
 + Storing the data as csv file as required
-+ Data Visualization by python
++ Data Visualization by python (Plot with two y-axis)
 + Basic data analysis based on the graph created by python
